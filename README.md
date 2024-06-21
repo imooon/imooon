@@ -11,4 +11,4 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=imooontheme=synthwave)](https://github.com/imooon/github-readme-stats)
+[![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=imooontheme=synthwave&hide)](https://github.com/imooon/github-readme-stats)
